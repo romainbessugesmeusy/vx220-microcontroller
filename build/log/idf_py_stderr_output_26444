@@ -1,0 +1,1 @@
+warning: the value '240=y' is invalid for ESP_DEFAULT_CPU_FREQ_MHZ (defined at C:/Users/PC/Desktop/esp-idf/components/esp_system\./port/soc/esp32/Kconfig.cpu:19), which has type int -- assignment ignored
